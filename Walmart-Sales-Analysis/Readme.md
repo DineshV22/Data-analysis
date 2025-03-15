@@ -32,7 +32,7 @@ The dataset contains **50,000 transactions** from Walmart, including details lik
  ├── 📄 walmart_sales_analysis.ipynb  # Jupyter Notebook with code and visualizations  
  ├── 📄 walmart_sales.csv  # Dataset (if available)  
  ├── 📄 README.md  # Project documentation  
- ├── 📄 requirements.txt  # Python dependencies  
+
 ```
 
 ## 🚀 How to Run the Project
@@ -41,18 +41,16 @@ The dataset contains **50,000 transactions** from Walmart, including details lik
    git clone https://github.com/DineshV22/Data-analysis/tree/main/Walmart-Sales-Analysis
    cd Walmart-Sales-Analysis
    ```
-2. **Install Dependencies**
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. **Open Jupyter Notebook**
+2. **Open Jupyter Notebook**
    ```sh
    jupyter notebook
    ```
-4. **Run `walmart_sales_analysis.ipynb`** to explore insights and visualizations.
+3. **Run `walmart_sales_analysis.ipynb`** to explore insights and visualizations.
 
 ## 📢 Contact
-For any queries, reach out via [Your Email] or [LinkedIn Profile].
+For any queries, reach out via dineshv2212@gmail.com or www.linkedin.com/in/
+dinesh-v-49757b162
+.
 
 🚀 **If you find this project useful, give it a ⭐ on GitHub!**
 
