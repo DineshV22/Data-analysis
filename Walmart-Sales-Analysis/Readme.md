@@ -38,7 +38,7 @@ The dataset contains **50,000 transactions** from Walmart, including details lik
 ## 🚀 How to Run the Project
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/Walmart-Sales-Analysis.git
+   git clone https://github.com/DineshV22/Data-analysis/tree/main/Walmart-Sales-Analysis
    cd Walmart-Sales-Analysis
    ```
 2. **Install Dependencies**
